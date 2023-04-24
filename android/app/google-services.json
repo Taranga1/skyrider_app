@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722521982377",
+    "project_id": "skyrider-second-auth",
+    "storage_bucket": "skyrider-second-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722521982377:android:dedbc1098249236e0cb0b8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722521982377-5o6ubmn6fpvijq2a1hra8qteq06pjpma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcBkJ6O3ElypT7WnaGmFQWrbnDEL9wQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722521982377-5o6ubmn6fpvijq2a1hra8qteq06pjpma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
